@@ -1,0 +1,6 @@
+// body {
+//   background: url(<%= asset_path "beer.jpeg" %>) no-repeat;
+//   background-size: cover;
+// }
+@import "bootstrap-sprockets";
+@import "bootstrap";
